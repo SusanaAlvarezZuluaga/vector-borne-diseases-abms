@@ -1,6 +1,3 @@
-# Repositorio para montar avances de proyecto de PI: mosquito-borne diseases
+# Hybrid agent-based model to simulate different aspects of Dengue, Chikungunya and Zika virus propagation in Bello, Colombia.
 
-## 3 versiones hasta ahora:
-- __Version1__: humans_1603
-- __Version2__: humans_2303
-- __Version3__: humans_2303 (dentro de la carpeta)
+This repository contains agent-based models coded in Repast Symphony (Java). Each disease has its corresponding model in a different folder.

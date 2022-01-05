@@ -1,9 +1,0 @@
-<context id="humans_2303" 
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
-  	
-  	<projection type="continuous space" id="space"/>
-	<projection type="grid" id="grid"/>
-	<projection id="Infection Values" type="value layer" />
-	<projection id="Mosquito Number" type="value layer" />
-</context>
